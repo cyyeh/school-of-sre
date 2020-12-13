@@ -67,6 +67,8 @@ nav:
     - Conclusion: security/conclusion.md
 - Contribute: CONTRIBUTING.md
 copyright: "Copyright 2020 LinkedIn Corporation. All Rights Reserved. Licensed under the Creative Commons Attribution 4.0 International Public License"
+markdown_extensions:
+  - meta
 extra:
     social:
         - icon: fontawesome/brands/github
